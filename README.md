@@ -1,2 +1,2 @@
-# HTML_Editor
-Simple HTML editor using Python
+# Web_Editor
+Simple web editor using Python
